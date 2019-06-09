@@ -12,7 +12,7 @@ body {
 	clear: both;
 }
 header{
-	background: url(img/f11.jpg) no-repeat center top / cover;
+	background: url("img/f11.jpg") no-repeat center top / cover;
 	height: 600px;
 }
 .container{
